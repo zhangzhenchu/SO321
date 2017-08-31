@@ -1,0 +1,6 @@
+E:\develop\RS\SO321\RSERP_SO321\RSERP_SO321\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\RS\SO321\RSERP_SO321\RSERP_SO321\obj\Debug\RSERP_Template.Form1.resources
+E:\develop\RS\SO321\RSERP_SO321\RSERP_SO321\obj\Debug\RSERP_Template.frmMessege.resources
+E:\develop\RS\SO321\RSERP_SO321\RSERP_SO321\obj\Debug\RSERP_Template.Properties.Resources.resources
+E:\develop\RS\SO321\RSERP_SO321\RSERP_SO321\obj\Debug\RSERP_SO321.csproj.GenerateResource.Cache
+E:\develop\RS\SO321\RSERP_SO321\RSERP_SO321\obj\Debug\RSERP_Template.pdb
